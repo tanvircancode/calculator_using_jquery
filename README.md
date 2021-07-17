@@ -1,2 +1,3 @@
-# calculator_using_jquery
+### A calculator where you can do addition,subtration,multiplication and division.
+
  
